@@ -12,6 +12,6 @@ Built and deployed my personal Portfolio site to unveil most of the projects tha
 - React Js 
 
 # Links 
-<a href="https://mercia-ravelontsoa-portfolio.netlify.app"> Livesite </a>
+<a target="_blank" href="https://mercia-ravelontsoa-portfolio.netlify.app"> Livesite </a>
 
 
